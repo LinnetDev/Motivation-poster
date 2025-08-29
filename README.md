@@ -10,3 +10,6 @@ This is a basic CSS project created as part of the Complete Full-Stack Web Devel
 - The basics of the box model (margin, padding, border)
 - How to use custom fonts
 - How to style images and text layout
+
+
+[ Motivation-poster ](https://linnetdev.github.io/Motivation-poster/)
